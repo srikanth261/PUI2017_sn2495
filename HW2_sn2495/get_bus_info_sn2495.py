@@ -24,9 +24,7 @@ except ImportError:
 # this line checks how many arguments are passed to python
 # the arguments are stored in sys.argv which is a list
 # the first argument is the name of the code
-# so sys.argv is a list with at least one element
-# with your name in input it will be a list of 2
-# if you add more than one word as argument it will give you an error as well
+
 if not len(sys.argv) == 4:
     print ("Invalid number of arguments. Run as: python  aSimplePythonScript.py YourNameHerepython get_bus_info.py xxxx-xxxx-xxxx-xxxx-xxxx <BUS_LINE> <BUS_LINE>.csv")
     sys.exit()
@@ -58,7 +56,7 @@ for i in vehicles:
         status = i['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]\
         ['Extensions']['Distances']['PresentableDistance']
         
-    except TypeError or KeyError:
+    except BaseException:
         next_stop_name = "N/A"
         status = "N/A"
     
