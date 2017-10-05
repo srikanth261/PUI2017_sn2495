@@ -9,7 +9,7 @@ Did this by myself.
 5. Plotted the histogram of  mean of means
 
 Assignment 2:
-Worked with Davey on this part. Took Matts help to get the path to the citibike files
+Worked with Davey and Imran  on this part. Took Matts help to get the path to the citibike files. We referred to the skeleton notebook for the code to read data. We came up with the hypothesis as a group. I wrote the code for plotting the bar plot.
 
 1. Read the data into a data frame
 2. Formulate the Hypothesis
@@ -21,7 +21,7 @@ Worked with Davey on this part. Took Matts help to get the path to the citibike 
 8. Plotted the means vs user type
 
 Assignment 3:
-Worked on a part of this assignement in class until calculating the sample mean. Worked on the rest of it with Davey
+Worked on a part of this assignement in class until calculating the sample mean. Worked on the rest of it with Davey and Imran. In class I wrote the code to read the data and calculate the sample mean.  We referred to the class slides to get a hint on how to calculate and interpret the Z-score. 
 
 1. Read the data into a table
 2. calculated the sample mean and sample std
