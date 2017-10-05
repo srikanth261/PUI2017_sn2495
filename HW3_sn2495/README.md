@@ -9,7 +9,7 @@ Did this by myself.
 5. Plotted the histogram of  mean of means
 
 Assignment 2:
-Worked with Davey and Imran  on this part. Took Matts help to get the path to the citibike files. We referred to the skeleton notebook for the code to read data. We came up with the hypothesis as a group. I wrote the code for plotting the bar plot.
+Worked with Davey and Imran  on this part. Took Matts help to get the path to the citibike files. We referred to the skeleton notebook for the code to read data. We came up with the hypothesis as a group. I wrote the code for the steps 6,7 and 8 below.
 
 1. Read the data into a data frame
 2. Formulate the Hypothesis
