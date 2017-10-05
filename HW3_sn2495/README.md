@@ -13,7 +13,7 @@ Worked with Davey and Imran  on this part. Took Matts help to get the path to th
 
 1. Read the data into a data frame
 2. Formulate the Hypothesis
-3. Display the hed
+3. Display the head
 4. Remove the unnecessary columns
 5. Display the head again
 6. Created a list of indices of 'subscribers' and 'customers' among the user types
