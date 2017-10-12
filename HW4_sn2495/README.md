@@ -22,3 +22,6 @@ Multiple Regression	| 3, Park Quality, Quantity, Accessibility | continuous, con
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Logistic Regression	| 5, flouroscence markers | Categorical | 1, Leukemia exists or no| categorical | 2, cell size, side scatter | continuous  | 	AUC values of the test group are not different from the AUC values of the control group | AUC of test group = AUC of control group | 0.05 | Leukemia Prediction Using Sparse Logistic Regression](https://doi.org/10.1371/journal.pone.0072932) |
   |||||||||
+
+# Assignment 3
+Worked with Valeria and Alex on this assignment. Followed what was done in the lab and it was straight forward. I created the 2x2 matrix and entered the values to the calculate chi square function
