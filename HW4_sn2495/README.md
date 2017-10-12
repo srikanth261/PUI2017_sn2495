@@ -24,4 +24,7 @@ Logistic Regression	| 5, flouroscence markers | Categorical | 1, Leukemia exists
   |||||||||
 
 # Assignment 3
-Worked with Valeria and Alex on this assignment. Followed what was done in the lab and it was straight forward. I created the 2x2 matrix and entered the values to the calculate chi square function
+Worked with Valeria, Alex, Davey and Imran on this assignment. Followed what was done in the lab and it was straight forward. I created the 2x2 matrix and entered the values to the calculate chi square function
+
+# Assignment 4
+Worked with Davey on this one. I have not written the code but just followed along. Just kept my head above the water
