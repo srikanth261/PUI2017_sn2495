@@ -1,7 +1,8 @@
 # Assignment1:
 Did assignment 1 by myself. Peer reviewed the Assignement 2 of HW3 for Yuwen and Gokmen. Also accepted the pull request for the peer review of my work
 
-# Assignment 2:
+# Assignment 2: 
+Worked with Davey and Imran on this. We read through one paper each and then discussed the findings and documented it.
 
 1.     
 
