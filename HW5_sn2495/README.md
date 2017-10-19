@@ -12,7 +12,7 @@ Worked with Valeria, Imran and Davey. Valeria wrote the code. I just followed al
 
 
 Assignment 3: 
-Worked with Imran and Davey. Took help from Valeria and Matt while working on this one. 
+Worked with Imran and Davey. I wrote the code. We took help from Valeria and Matt while working on this one.
 Getting the data into the right shape took some time. And then the plotting. The plotting is cumbersome but not difficult. The 
 code provided in the skeleton notebook helped as reference for most parts of this assignment. And this assignment took the most
 time to complete among HW5 assignments
