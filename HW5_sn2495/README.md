@@ -7,10 +7,12 @@ among the assignments in HW5. The only confusing part was the requirement to plo
 that exactly meant. If I considered Poisson as my original distribution, then the next plot would be very similar to the first. So
 plotted a normal distribution for the 'original distribution'.
 
+Assignment 2:
+Worked with Valeria, Imran and Davey. Valeria wrote the code. I just followed along but I did not write the code myself. 
 
 
 Assignment 3: 
-Took help from Valeria and Matt while working on this one. 
+Worked with Imran and Davey. I wrote the code. We took help from Valeria and Matt while working on this one.
 Getting the data into the right shape took some time. And then the plotting. The plotting is cumbersome but not difficult. The 
 code provided in the skeleton notebook helped as reference for most parts of this assignment. And this assignment took the most
 time to complete among HW5 assignments
