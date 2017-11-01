@@ -39,3 +39,5 @@ According to the article [How to choose the right statistical test?](https://www
 This question raised is applicaple to the Question 1, is there a difference between groups that are unpaired, and t test is suitable for numerical data of two unpaired groups.
 
 ![Figure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/figure/F0001/)
+
+# FBB good!
