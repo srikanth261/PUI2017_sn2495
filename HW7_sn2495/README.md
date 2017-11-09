@@ -11,3 +11,5 @@ customers ride the bike.
 
 Assignement 2: Again worked with Davey and Imran on this. We collaborated on Autherea. Davey did most of the write up. I contributed the
 methodology part of the write up.
+
+The PDF version of the document is attached to this homework. It can also be found at the following link: https://www.authorea.com/210947/1TFOO9JcPyG635su70csNw
