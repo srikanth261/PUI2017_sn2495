@@ -13,3 +13,7 @@ Assignement 2: Again worked with Davey and Imran on this. We collaborated on Aut
 methodology part of the write up.
 
 The PDF version of the document is attached to this homework. It can also be found at the following link: https://www.authorea.com/210947/1TFOO9JcPyG635su70csNw
+
+
+Assignment 3: SQL
+I worked with Jon Kastelan on this. We both wrote the code in our own laptops and compared the results. Later I discussed the work with Davey Ives and went through it again.
