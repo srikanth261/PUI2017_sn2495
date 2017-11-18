@@ -20,7 +20,9 @@ the x-axis and y-axis text as well. The axis titles dwarf the axis values yet it
 take precedent.
 
 Lastly, it would help to know how the cities were chosen. The plot is of the "top 5 cities" but how are they ranked? Are they the top five most populous cities? Or the cities with the top five housing prices? The code shows that the first 5 rows for the data set were chosen
+
 > `df1 = df.iloc[:5]`
+
 but does that mean the dataset was already sorted by some attribute? Upon checking the code we see that the dataset was read in pre-sorted by `SizeRank`. But even that leaves the quesiton of what "size" means. Population? Geography?
 
 Good plot overall.
