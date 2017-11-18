@@ -1,6 +1,7 @@
-# Plot review by mms911
-Plot: House Prices for the top 5 US cities
-Author: sn2495
+# Plot review
+__Plot:__ House Prices for the top 5 US cities
+__Author:__ Srikanth Namuduri (sn2495)
+__Reviewer__ Michael Sampson (mms911)
 
 
 Srikanth's plot contains all the basic yet important features of a good plot.
