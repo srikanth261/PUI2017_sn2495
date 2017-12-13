@@ -13,8 +13,19 @@ Baoling's plot contains all the necessary features of a good plot. It is a simpl
 It contains a clear title, the axis labels, a well placed legend.
 
 Moving on to the content of the plot, Baoling chose the length of the bars to show the volume of calls. Each bar represents a day 
-of the week. The colors are bright and help to show the contrast. The chart is helpful to get a feel for the traffic of calls by day of the week. And also to understand the breakdown in the type of calls received by 911. The plot conveys the visualization honestly without any distortions!
+of the week. The colors are bright and help to show the contrast.
+
+# FBB importantly you missed that the colors are not color compliant
+protanopia makes EMS and fire indistinguishable, tritanopia makes fire and traffic indistinguishable
+
+The chart is helpful to get a feel for the traffic of calls by day of the week. And also to understand the breakdown in the type of calls received by 911. The plot conveys the visualization honestly without any distortions!
 
 The volume of EMS related calls can be compared easily because they all start at 0. For the volume of fire and traffic related calls, it is a bit difficult to compare with another day of the week because they do not start from zero. It may have helped to make them different bars. A grouped bar chart would have helped in this aspect. Also, it would have helped to add a caption below the graph explaining the intention behind the graph. 
 
 Overall I like the chart for being simple while being adequate and doing its intended job!
+
+# FBB 
+asked to specifically comment on 3 topics:
+clarity, esthetics, honesty. you make comments but it is not clear to which point they refer.
+
+9/10
