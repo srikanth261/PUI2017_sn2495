@@ -14,6 +14,16 @@ First of all it is very easy to understand. The plot has a title, x and y labels
 
 And coming to the aesthetics, it conveys a lot of information without seeming complicated. The plot conveys the median household income, the median house prices and the population of the boroughs of New York City. The choice of colors is good - bright and pleasing to the eye at the same time. The choice of the shape of the marker is appropriate. The part I like the best is indicating the population by size of the circle. The white background makes it clean.
 
+# FBB 
+the scaling of the size of the pop labels with the size of the point (because the label is insode the point) forces labels to get too small to be read comfortably, wich is not justified particularly since thre is so much white space in the plot
+
 Looking at the axes, both x and y do not start from 0. This gives a kind of zoomed in view of the differences between the boroughs. It may have been more accurate to have the axes start from 0 for a better perspective. The plot may be trying to emphasize the difference between Manhattan and other boroughs. 
 
 Overall, it is a very very well done plot. Great job!
+
+# FBB
+asked to specifically comment on 3 topics:
+clarity, esthetics, honesty. you make comments but it is not clear to which point they refer.
+
+also why are the points in the legend in different size? if they reflect the overall borough population that is redundant with the plot. otherwise it is confusing
+9/10
